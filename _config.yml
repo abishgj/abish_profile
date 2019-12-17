@@ -6,7 +6,7 @@
 name: Abish Jayaram
 
 # Short bio or description (displayed in the header)
-description: AI Engineer from India
+description: AI Engineer
 
 
 #
@@ -24,8 +24,8 @@ footer-links:
   linkedin: abish-g-j-b860938a
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
+  twitter: ABgj1512
+  stackoverflow: users/5287756/abish
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -35,7 +35,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-154711096-1
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
