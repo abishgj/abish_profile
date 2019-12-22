@@ -1,5 +1,5 @@
 ---
-title: "Abish's Resume"
+title: "Resume"
 layout: pdf
 permalink: /Resume/
 ---
