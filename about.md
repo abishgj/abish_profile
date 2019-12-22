@@ -11,13 +11,13 @@ I did for sure and that's always in me at every situation that has happened or h
 
 ## Roles
 
-* AI Engineer, Razorthink
-  Oct 2017 - present
-  Bangalore, India
+* AI Engineer, Razorthink \\
+  Oct 2017 - present \\
+  Bangalore, India \\
   
-* Deep Learning Engineer, Razorthink
-  Jul 2015 - Sept 2017
-  Bangalore, India
+* Deep Learning Engineer, Razorthink \\
+  Jul 2015 - Sept 2017 \\
+  Bangalore, India \\
 
 
 ## Skills
