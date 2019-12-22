@@ -4,4 +4,4 @@ layout: pdf
 permalink: /Resume/
 ---
 
-<iframe src="/assets/Updated_resume.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1AzdetxLxznzQ9dzVzWYquIStyODqc1Pq/view?usp=sharing" width="100%" height="100%"></iframe>
