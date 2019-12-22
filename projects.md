@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-## Professional Projects
 
 ### Automated CV based Quality Control
 In manufacturing industries it is very important to check the quality of the goods being produced for a variety of reasons but doing this manually is a hassle. Understanding this problem, we developed an automated, highly efficient deep learning model architecture which trains the model on ground for a specific product using very few good images. The system can be implemented on any manufacturing line from products vaying from as small as a screw to as big as bulk metallic containers provided that the good view of the object is captured.
