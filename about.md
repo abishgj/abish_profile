@@ -13,11 +13,11 @@ I did for sure and that's always in me at every situation that has happened or h
 
 * AI Engineer, Razorthink \\
   Oct 2017 - present \\
-  Bangalore, India \\
+  Bangalore, India
   
 * Deep Learning Engineer, Razorthink \\
   Jul 2015 - Sept 2017 \\
-  Bangalore, India \\
+  Bangalore, India
 
 
 ## Skills
@@ -25,6 +25,7 @@ I did for sure and that's always in me at every situation that has happened or h
 * **Neural Networks** - `Feedforward Networks`, `Convolutional Networks`, `LSTM`, `Auto Encoders`, `DBN`, `RBM`, `MANN`, `Attention Networks`, `Transformers` and `GAN`
 * **Programming Languages** - `Python`, `Java`, `BASH`
 * **Frameworks and Libraries** - `Tensorflow`, `PyTorch`, `Pandas`, `Falsk`, `Sklearn`, `OpenCV`, `Spacy`, `OpenIE` and `Matplotlib`
+
 * **Databases** - `MySQL` and `MongoDB`
 * **Big Data Technologies** - `Hadoop`, `Kafka`, `Spark`, `Distributed Tensorflow` and `Horovod`
 * **Infrastructure** - `Linux`, `Docker` and `Kubernetes` 
